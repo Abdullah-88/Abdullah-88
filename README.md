@@ -1,5 +1,5 @@
 - Hello Everyone, I am Abdullah Nazhat Abdullah
-- I am currently a Ph.D. student focusing on Computer Vision and Deep Learning
+- I am currently a Ph.D. Candidate focusing on Computer Vision and Deep Learning
 - You can reach with the E-mail: abdullah.nazhat@gmail.com
 
 <!---
